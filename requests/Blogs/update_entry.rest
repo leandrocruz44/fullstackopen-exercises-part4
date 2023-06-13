@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/6466e913b3e2d8b7778e72b7
+Content-Type: application/json
+
+{
+  "title": "The best City Pop albums of all time",
+  "author": "Sugiru Kimimame",
+  "url": "musicfornerds.com",
+  "likes": 1197
+}

@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRpbV9tYWlhIiwiaWQiOiI2NDgwMWZjMTY2NWUyYWNjYjk5MmU3NGMiLCJpYXQiOjE2ODYxMTgzOTl9.zCS5KsVugeV_4fERlTqnTtNKIFkxeHQ47i_VnKNLnHQ
+
+{
+  "title": "Do Leme ao Pontal",
+  "author": "Baby Blue",
+  "url": "simplerecipes.com/rice-and-beans",
+  "likes": 200,
+  "user": "64801fc1665e2accb992e74c"
+}
